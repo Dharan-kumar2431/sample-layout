@@ -1,0 +1,22 @@
+.form {
+    border: none;
+    border-bottom: 2px solid #02888b;
+    background-color: #152326;
+    width: 275px;
+    display: block;
+    margin: auto;
+    color: white;
+}
+
+::placeholder {
+    color: #5d6c72;
+}
+
+.button {
+    display: block;
+    margin: auto;
+    width: 100px;
+    background-color: #1e2321;
+    border: 2px solid #02888b;
+    color: white;
+}
